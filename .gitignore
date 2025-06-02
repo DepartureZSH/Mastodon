@@ -1,0 +1,4 @@
+/Analysis/Datasets/Cleaned_data/*
+/Analysis/Datasets/Example/*.zip
+/Analysis/Datasets/Example/*/*/*.json
+/Analysis/Datasets/Raw_data/*
